@@ -22,7 +22,7 @@ title: Блог Фёдора
 email: test@example.com
 description: >- # this means to ignore newlines until "baseurl:
   Мой блог, в котором я постараюсь писать про всё, что мне интересно,
-  что меня порадовало, удивило или развлекло. Иными словами интернет мир, держись, я иду!
+  что меня порадовало, удивило или развлекло. Иными словами, интернет мир, держись, я иду!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
