@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title: О вдохновении, как о капризной даме, хотя казалось бы оно среднего рода
 layout: post
 category: misc
