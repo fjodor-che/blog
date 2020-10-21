@@ -2,7 +2,7 @@
 layout: post
 title: О важных факторах на пути к успеху
 categories: misc
-published: true
+published: false
 ---
 - Талант
 - Трудолюбие или усидчивость
