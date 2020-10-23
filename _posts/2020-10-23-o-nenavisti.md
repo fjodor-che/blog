@@ -2,7 +2,7 @@
 layout: post
 title: О ненависти
 categories: misc
-published: false
+published: true
 ---
 Что-то звериное в моем сердце есть - 
 
